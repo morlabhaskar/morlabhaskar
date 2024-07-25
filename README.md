@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Morla</h1>
 <h3 align="center">Welcome to my GitHub playground! 👋 I'm Bhaskar Morla, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites!</h3>
-## 🚀 Quick Overview
 
+## 🚀 Quick Overview
 - 🔭 I work as a Full Stack Developer.
-- 👯 I’m looking to collaborate on open source projects or interesting ideas.
 - 💬 Ask me about anything! I'm happy to help.
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morlabhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="morlabhaskar" /> </p>
@@ -34,16 +33,27 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL-N3kfavKUhNI0U7hH3imNeJTf2hovqw9Q&usqp=CAU" alt="" width="40" height="40"/> </a> 
   
 </p>
+
 ## 📈 GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact" alt="morlabhaskar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morlabhaskar&show_icons=true&locale=en" alt="morlabhaskar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&" alt="morlabhaskar" /></p>
 
-<h3 align="left">Connect with me:</h3>
+## 🌟 Let's Connect
+
 <p align="left">
 <a href="https://www.linkedin.com/in/bhaskar-morla-429738258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/morlabhaskar306/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/morlabhaskar306/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/BhaskarMorla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhaskarmorla/" height="30" width="40" /></a>
 </p>
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=phuc-mai&color=brightgreen)
+
+Thanks for stopping by! 😊✨
+
+Happy Coding! 🚀

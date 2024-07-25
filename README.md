@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Morla</h1>
 <h3 align="center">Welcome to my GitHub playground! 👋 I'm Bhaskar Morla, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites!</h3>
 
+
+
 ## 🚀 Quick Overview
 - 🔭 I work as a Full Stack Developer.
 - 💬 Ask me about anything! I'm happy to help.
 
+
+
+## 📈 Profile
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morlabhaskar" alt="morlabhaskar" /></a> </p>
+
+
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
@@ -32,6 +39,8 @@
   
 </p>
 
+
+
 ## 📈 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact" alt="morlabhaskar" /></p>
@@ -40,6 +49,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&" alt="morlabhaskar" /></p>
 
+
+
 ## 🌟 Let's Connect
 
 <p align="left">
@@ -47,6 +58,8 @@
 <a href="https://www.instagram.com/morlabhaskar306/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/morlabhaskar306/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/BhaskarMorla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhaskarmorla/" height="30" width="40" /></a>
 </p>
+
+
 
 ## 📈 Profile Views
 

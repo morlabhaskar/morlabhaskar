@@ -4,8 +4,6 @@
 ## 🚀 Quick Overview
 - 🔭 I work as a Full Stack Developer.
 - 💬 Ask me about anything! I'm happy to help.
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morlabhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="morlabhaskar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morlabhaskar" alt="morlabhaskar" /></a> </p>
 
@@ -52,7 +50,7 @@
 
 ## 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=phuc-mai&color=brightgreen)
+![Profile Views]([https://komarev.com/ghpvc/?username=morlabhaskar&label=Profile%20views&color=0e75b6&style=flat)
 
 Thanks for stopping by! 😊✨
 

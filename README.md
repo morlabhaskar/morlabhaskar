@@ -36,7 +36,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL-N3kfavKUhNI0U7hH3imNeJTf2hovqw9Q&usqp=CAU" alt="" width="40" height="40"/> </a> 
   
 </p>
-
+<h3 align="left">STATISTICS:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact" alt="morlabhaskar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morlabhaskar&show_icons=true&locale=en" alt="morlabhaskar" /></p>

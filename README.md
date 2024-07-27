@@ -1,5 +1,8 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bhaskar Morla</h1>
+<p align="center" >
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" height="240">
+</p>
+
 
 <h3 align="center">Welcome to my GitHub playground! I'm Bhaskar Morla, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites!</h3>
 
@@ -8,20 +11,17 @@
 ## 🚀 Quick Overview
    - 🔭 I work as a Full Stack Developer.
    - 💬 Ask me about anything! I'm happy to help.
-   
-  
-
-
-
-
-
-
+   &nbsp;
+   &nbsp;
+   &nbsp;
 ## 📈 Profile
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morlabhaskar" alt="morlabhaskar" /></a> </p>
-
-
-
+ &nbsp;
+   &nbsp;
+   &nbsp;
+   
 ## 🔧 Technologies & Tools
+
 <p align="left"> 
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -45,20 +45,35 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL-N3kfavKUhNI0U7hH3imNeJTf2hovqw9Q&usqp=CAU" alt="" width="40" height="40"/> </a> 
   
 </p>
-
+ &nbsp;
+   &nbsp;
+   &nbsp;
 
 
 ## 📈 GitHub Stats
+<p align="left">
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact" alt="morlabhaskar" />
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   <img height="170" width="" src="https://github-readme-stats.vercel.app/api?username=morlabhaskar&show_icons=true&locale=en" alt="morlabhaskar" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact" alt="morlabhaskar" /></p>
+## 🔝 Top Contributed Repo
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morlabhaskar&show_icons=true&locale=en" alt="morlabhaskar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&" alt="morlabhaskar" /></p>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=morlabhaskar&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="left">
+   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&" alt="morlabhaskar" />
+   &nbsp;
+    &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   <img height="170" src="https://github-contributor-stats.vercel.app/api?username=morlabhaskar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="morlabhaskarr" />
+</p>
 
 
 ## 🌟 Let's Connect
@@ -68,7 +83,9 @@
 <a href="https://www.instagram.com/morlabhaskar306/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/morlabhaskar306/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/BhaskarMorla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhaskarmorla/" height="30" width="40" /></a>
 </p>
-
+ &nbsp;
+   &nbsp;
+   &nbsp;
 
 
 ## 📈 Profile Views

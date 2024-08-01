@@ -50,27 +50,27 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact" alt="morlabhaskar" />
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="morlabhaskar" />
    &nbsp;
    &nbsp;
    &nbsp;
    &nbsp;
    &nbsp;
    &nbsp;
-   <img height="170" width="" src="https://github-readme-stats.vercel.app/api?username=morlabhaskar&show_icons=true&locale=en" alt="morlabhaskar" />
+   <img height="170" width="" src="https://github-readme-stats.vercel.app/api?username=morlabhaskar&show_icons=true&locale=en&theme=tokyonight" alt="morlabhaskar" />
 </p>
 
 ## 🔝 Top Contributed Repo
 
 <p align="left">
-   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&" alt="morlabhaskar" />
+   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&&theme=tokyonight" alt="morlabhaskar" />
    &nbsp;
     &nbsp;
    &nbsp;
    &nbsp;
    &nbsp;
    &nbsp;
-   <img height="170" src="https://github-contributor-stats.vercel.app/api?username=morlabhaskar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="morlabhaskarr" />
+   <img height="170" src="https://github-contributor-stats.vercel.app/api?username=morlabhaskar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="morlabhaskarr" />
 </p>
 
 

@@ -20,32 +20,29 @@
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-  <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
-    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
-  </a>
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript" width="40" height="40"/> </a> 
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript" width="50" height="50"/> </a> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=true&theme=transparent" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&hide_border=true&theme=transparent" /> 
 </p>
 
 <!--Trophy-->
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&no-bg=true&no-frame=true&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=morlabhaskar&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjit-sahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjit-sahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=transparent" height="180em" alt="Commitments"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morlabhaskar&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morlabhaskar&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morlabhaskar&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morlabhaskar&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morlabhaskar&theme=transparent" height="180em" alt="Commitments"/>
 </div>
    
 ## 🔧 Technologies & Tools
@@ -74,33 +71,6 @@
  &nbsp;
    &nbsp;
    &nbsp;
-
-
-## 📈 GitHub Stats
-<p align="left">
-   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="morlabhaskar" />
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   <img height="170" width="" src="https://github-readme-stats.vercel.app/api?username=morlabhaskar&show_icons=true&locale=en&theme=tokyonight" alt="morlabhaskar" />
-</p>
-
-## 🔝 Top Contributed Repo
-
-<p align="left">
-   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&&theme=tokyonight" alt="morlabhaskar" />
-   &nbsp;
-    &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   <img height="170" src="https://github-contributor-stats.vercel.app/api?username=morlabhaskar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="morlabhaskarr" />
-</p>
-
 
 ## 🌟 Let's Connect
 <p align="center">

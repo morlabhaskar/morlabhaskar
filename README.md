@@ -11,13 +11,6 @@
 <h3 align="center">Welcome to my GitHub playground! I'm Bhaskar Morla, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories and projects. Don't forget to star your favorites!</h3>
 
 
-
-## 🚀 Quick Overview
-   - 🔭 I work as a Full Stack Developer.
-   - 💬 Ask me about anything! I'm happy to help.
-   &nbsp;
-   &nbsp;
-
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 

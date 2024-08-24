@@ -12,9 +12,11 @@
 
 
 <h3 align="center">Most Wanted Language</h3>
+    
 <p align="center">
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript" width="50" height="50"/> </a> 
+   <a href="" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> </a> 
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" /></a> 
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /></a> 
 </p>
 
 <p align="center">

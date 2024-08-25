@@ -41,31 +41,97 @@
 </div>
    
 ## 🔧 Technologies & Tools
-
-<p align="left"> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>                         </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"                                             height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.w3schools.com/whatis/img_bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-   <a href="" target="_blank" rel="noreferer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="norefeer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWCl3D1_JGj7-6OKGKIhepY1fMe3blH5_w&usqp=CAU" alt="next" width="40" height="40"/> </a> 
- <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="express" width="40" height="40"/>                             </a> 
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"                                   height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>                             </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL-N3kfavKUhNI0U7hH3imNeJTf2hovqw9Q&usqp=CAU" alt="" width="40" height="40"/> </a> 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+      <td align="center" width="96">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+      <br>C
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      <td align="center" width="96">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWCl3D1_JGj7-6OKGKIhepY1fMe3blH5_w&usqp=CAU" alt="next" width="40" height="40"/> 
+      <br>Nextjs
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      <br>Tailwind
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40" />
+      <br>Sass
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td> 
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+            </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+      <br>Postman
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="96"> 
+       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      <br>Figma
+    </td>
+     <td align="center" width="96">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL-N3kfavKUhNI0U7hH3imNeJTf2hovqw9Q&usqp=CAU" alt="" width="40" height="40"/> 
+      <br>Matlab
+    </td>
   
-</p>
- &nbsp;
-   &nbsp;
-   &nbsp;
+ </tr>
+</table>
 
 ## 🌟 Let's Connect
 <p align="center">

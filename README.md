@@ -1,10 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=morlabhaskar&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Bhaskar+Morla;Full+Stack+Developer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=3000&lines=Bhaskar+Morla" width="auto" height="35"/>
 </p>
 
 <p align="center" >
   <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" height="240">
+</p>
+
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=650&duration=3500&pause=1500&lines=Full+Stack+Developer;Frontend+Developer;ReactJS+Developer;JavaScript+Developer;Electrical+and+Electronics+Engineering" width="auto" height="30"/>
 </p>
 
 

@@ -14,8 +14,7 @@
 
 <h3 align="center">Welcome to my GitHub playground! I'm Bhaskar Morla, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories and projects. Don't forget to star your favorites!</h3>
 
-
-<h3 align="center">Most Wanted Language</h3>
+## 🔧 Stats
     
 <p align="center">
    <a href="" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> </a> 

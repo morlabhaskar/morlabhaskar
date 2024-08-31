@@ -12,8 +12,6 @@
 </p>
 
 
-<h3 align="center">Welcome to my GitHub playground! I'm Bhaskar Morla, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories and projects.</h3>
-
 ## 🔧 Stats
     
 <p align="center">

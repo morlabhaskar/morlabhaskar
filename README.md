@@ -75,7 +75,7 @@
       <br>C
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
       </td>
       <td align="center" width="96">
@@ -111,6 +111,10 @@
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
+    </td> 
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+      <br>REST API
     </td> 
   </tr>
  <tr>

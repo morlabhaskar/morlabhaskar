@@ -31,7 +31,7 @@
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&hide_border=true&theme=transparent" /> 
 </p>
 
-<!--Trophy-->
+
 <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=morlabhaskar&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>

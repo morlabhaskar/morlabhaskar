@@ -14,9 +14,9 @@
 
 ## 🔧 Statistics
 <!--<div align="center">
-   <h3>LeetCode Statistics:</h3> -->
+   <h3>LeetCode Statistics:</h3>  -->
    [![Bhaskar's Leetcode Stats](https://leetcard.jacoblin.cool/BhaskarMorla?ext=contest)](https://leetcode.com/BhaskarMorla/)
-<!--</div> -->
+<!-- </div>  -->
 
 <p align="center">
    <a href=" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> </a> 

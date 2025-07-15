@@ -14,7 +14,7 @@
 
 ## 🔧 Statistics
 <div align="center">
-   <h3>LeetCode Statistics:</h3>
+<!--    <h3>LeetCode Statistics:</h3> -->
    [![Bhaskar's Leetcode Stats](https://leetcard.jacoblin.cool/BhaskarMorla?ext=contest)](https://leetcode.com/BhaskarMorla/)
 </div> 
 

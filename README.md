@@ -13,9 +13,12 @@
 
 
 ## 🔧 Statistics
+<a href="https://leetcode.com/BhaskarMorla/">
+  <img src="https://leetcard.jacoblin.cool/BhaskarMorla?ext=contest" width="1000" height="350" />
+</a>
 <!--<div align="center"> -->
 <!--    <h3>LeetCode Statistics:</h3> -->
-   [![Bhaskar's Leetcode Stats](https://leetcard.jacoblin.cool/BhaskarMorla?ext=contest)](https://leetcode.com/BhaskarMorla/)
+  <!-- [![Bhaskar's Leetcode Stats](https://leetcard.jacoblin.cool/BhaskarMorla?ext=contest)](https://leetcode.com/BhaskarMorla/)-->
 <!--</div>--> 
 
 <p align="center">

@@ -12,7 +12,7 @@
 </p>
 
 
-## 🔧 Statistics
+## 🔧 Programming
 <a href="https://leetcode.com/BhaskarMorla/">
   <img src="https://leetcard.jacoblin.cool/BhaskarMorla?ext=contest" width="1000" height="350" />
 </a>
@@ -26,18 +26,21 @@
    <a href="" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> </a> 
 </p>
 
+## 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&hide_border=true&no-bg=true&no-                            frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&hide_border=true&theme=transparent" /> 
 </p>
 
-
+## 🏆 GitHub Trophies
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=morlabhaskar&no-bg=true&no-frame=true&row=2&column=3"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=morlabhaskar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/> 
 </div>
+
+
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morlabhaskar&theme=transparent" height="180em" alt="Stats"/>

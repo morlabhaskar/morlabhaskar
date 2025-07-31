@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=morlabhaskar&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=3000&lines=Bhaskar+Morla" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=3000&lines=Morla+Bhaskar" width="auto" height="35"/>
 </p>
 
 <p align="center" >

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=650&duration=3500&pause=1500&lines=C+Programmer;Embedded Developer;Electrical+and+Electronics+Engineering" width="auto" height="30"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=650&duration=3500&pause=1500&lines=C+Programmer;Embedded+Developer;Electrical+and+Electronics+Engineering" width="auto" height="30"/>
 </p>
 
 

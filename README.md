@@ -26,7 +26,7 @@
    <a href="" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> </a> 
 </p>
 
-## 📊 GitHub Stats:
+## 📊 Current Streak:
 <!--<p align="center">
            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&hide_border=true&no-bg=true&no-                            frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>-->

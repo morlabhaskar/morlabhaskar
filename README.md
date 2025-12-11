@@ -55,34 +55,33 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
       </a>
-      <br>Python
+      <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40" />
+      <br>Python
     </td>
       <td align="center" width="96">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      <br>C
+         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="40" height="40" />
+      <br>Java Script
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react js" width="40" height="40" />
+      <br>React Js
       </td>
       <td align="center" width="96">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-         <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWCl3D1_JGj7-6OKGKIhepY1fMe3blH5_w&usqp=CAU" alt="next" width="40" height="40"/>  -->
-      <br>Nextjs
+         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="40" height="40" alt="Nodejs" />
+      <br>Node Js
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="sql" width="40" height="40" />
       <br>MySQL
     </td>
   </tr>

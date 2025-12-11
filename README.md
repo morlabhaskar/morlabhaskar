@@ -77,7 +77,8 @@
       <br>Nodejs
       </td>
       <td align="center" width="96">
-         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWCl3D1_JGj7-6OKGKIhepY1fMe3blH5_w&usqp=CAU" alt="next" width="40" height="40"/> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+         <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEWCl3D1_JGj7-6OKGKIhepY1fMe3blH5_w&usqp=CAU" alt="next" width="40" height="40"/>  -->
       <br>Nextjs
       </td>
       <td align="center" width="96">

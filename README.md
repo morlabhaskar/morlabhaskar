@@ -47,8 +47,10 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morlabhaskar&theme=transparent" height="180em" alt="Commitments"/>
 </div>
    
+##
+<!-- 
 ## 🔧 Technologies & Tools
-<table align="center">
+<table align="center"> 
   <tr>
     <td align="center" width="96">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -142,7 +144,7 @@
     </td>
   
  </tr>
-</table>
+</table>-->
 
 
 

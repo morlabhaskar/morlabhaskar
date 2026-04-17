@@ -2,7 +2,6 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%139E0F&size=35&center=true&vCenter=true&width=450&duration=100&pause=1000000&lines=Morla+Bhaskar" width="auto" height="35"/>
 </p>
-
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=650&duration=3500&pause=1500&lines=C+Programmer;CPP+Programmer;Embedded+c/cpp;ARM7+Programming;Linux+Programming" width="auto" height="30"/>
 </p>

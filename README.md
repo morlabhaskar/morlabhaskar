@@ -159,7 +159,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/morlabhaskar" target="blank" title="GitHub">
 <img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" height="30" />
 </a>

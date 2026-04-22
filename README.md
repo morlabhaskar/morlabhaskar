@@ -29,7 +29,8 @@
 </p>-->
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&hide_border=true&theme=transparent" /> 
+  <!--<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&hide_border=true&theme=transparent" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak" width="48%" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -148,9 +149,7 @@
 
 
 
-<div align="center">
-  <i>❝ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜʀ ʜᴇᴀʀᴛ ᴛᴇʟʟꜱ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʙᴏᴜɴᴅ ᴛᴏ ꜰᴏʟʟᴏᴡ ᴛʜᴇ ᴏʀᴅᴇʀꜱ!<br><b>ᴀɴᴅ ʏᴏᴜ ᴀɴᴅ ʙᴇᴄᴏᴍᴇ ꜱʟᴀᴠᴇ, ᴛʜᴀᴛ ᴛʜᴇʏ ᴡᴀɴᴛ ʏᴏᴜ ᴛᴏ ʙᴇ ✨🥷</b>.<br>ʟᴇᴀʀɴ, ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏ<br><b>ᴊᴜꜱᴛ ᴘʀᴏᴠᴇ ᴛʜᴇᴍ ᴡʀᴏɴɢ. 🥷🎭 ɴᴇᴠᴇʀ ꜰᴏʀɢᴇᴛ ᴛʜɪꜱ.✨</b>❞</i>
-</div>
+
 &nbsp; &nbsp; &nbsp;
 <!--<p align="center"> 
   <a href="https://www.linkedin.com/in/morlabhaskar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
@@ -158,7 +157,32 @@
 <a href="https://leetcode.com/u/BhaskarMorla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhaskarmorla/" height="30" width="40" /></a>
 </p>&nbsp; &nbsp; &nbsp;-->
 
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://github.com/morlabhaskar" target="blank" title="GitHub">
+<img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" height="30" />
+</a>
+<a href="https://www.linkedin.com/in/morlabhaskar/" target="blank" title="LinkedIn">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" height="30" />
+</a>
+<a href="mailto:morlabhaskar306@gmail.com" target="blank" title="Email">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+</a>
+<a href="https://morlabhaskar.vercel.app/" target="blank" title="Portfolio">
+<img align="center" src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
+</a>
+<a href="https://leetcode.com/u/BhaskarMorla/" target="blank" title="LeetCode">
+<img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" />
+</a>
+</p>
+
+---
+
 <div align="center">
+   <div align="center">
+  <i>❝ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜʀ ʜᴇᴀʀᴛ ᴛᴇʟʟꜱ ʏᴏᴜ ᴛᴏ ᴅᴏ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʙᴏᴜɴᴅ ᴛᴏ ꜰᴏʟʟᴏᴡ ᴛʜᴇ ᴏʀᴅᴇʀꜱ!<br><b>ᴀɴᴅ ʏᴏᴜ ᴀɴᴅ ʙᴇᴄᴏᴍᴇ ꜱʟᴀᴠᴇ, ᴛʜᴀᴛ ᴛʜᴇʏ ᴡᴀɴᴛ ʏᴏᴜ ᴛᴏ ʙᴇ ✨🥷</b>.<br>ʟᴇᴀʀɴ, ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏ<br><b>ᴊᴜꜱᴛ ᴘʀᴏᴠᴇ ᴛʜᴇᴍ ᴡʀᴏɴɢ. 🥷🎭 ɴᴇᴠᴇʀ ꜰᴏʀɢᴇᴛ ᴛʜɪꜱ.✨</b>❞</i>
+</div>
  <h2>📈 Thank You !</h2>
 </div>
 
